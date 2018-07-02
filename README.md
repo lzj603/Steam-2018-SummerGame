@@ -6,7 +6,8 @@ Recommend: phuslu/pybuild3
 
 # Usage
 
-Use account.py to generate config files.（Each time add an account config to configs folder
+Use account.py to generate config files.（Each time can add  all accounts config to configs folder 
+											instead only one within head fork)
 
 And use saliens.py to farm exp.
 
